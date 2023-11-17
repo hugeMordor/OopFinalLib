@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bl2XWtv38WNVX/b7m7hpayhrNAdd1Hw01sBuDvBrsVzmkFS98T8RklzTHf/8fQbiQPaOkq360MOcbwt5qI5OdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hugeMordor\\Documents\\CS_LAB\\OopFinalLib\\LabLibrary\\LabLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugeMordor\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\hugeMordor\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
